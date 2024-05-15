@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+em{
+    color: #00ffff;
+    text-shadow: -1px 2px 3px #000;
+}
+i{
+    color: #ffff00;
+    text-shadow: -1px 2px 3px #000;}
+    
+
+b{
+    color: #ff0000;
+    text-shadow: -1px 2px 3px #000;
+    
+}    
